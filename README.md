@@ -13,7 +13,7 @@ A content-based movie recommendation system built using Python.
 - NumPy
 - Scikit-learn
 - Streamlit
-- TMBD API
+- TMDB API
 
 ## How to Run
 
