@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A content-based movie recommendation system built using Python.
+A content-based movie recommendation system built using Python and Machine Learning Techniques.
 
 ## Features
 - Recommend similar movies
